@@ -1,0 +1,76 @@
+header {
+    width: 1200px;
+    text-align: center;
+    margin: 15px auto 64px auto;
+}
+
+h1 {
+        font-family: "Roboto", sans-serif;
+        font-weight: 900;
+        font-style: normal;
+        font-size: 80px;
+        color: rgb(115,4,220);
+}
+
+img {
+    width: 400px;
+    height: 200px;
+}
+
+main {
+    background-color: rgba(90, 9, 240, 0.634);
+    color: white;
+    padding: 40px 30px 40px 20px;
+    margin: 64px 230px 40px 180px;
+    border: 1px solid rgba(90, 9, 240, 0.634);
+    border-radius: 8px;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+}
+
+.highlight {
+    font-weight: 900;
+}
+
+.yellow-highlight{
+    color: yellow;
+    list-style: square;
+    margin-left: 20px;
+}
+
+li {
+    list-style: none;
+    margin-left: 20px;
+}
+
+.highlight-background {
+    color: rgb(115, 4, 220);
+    background-color: white;
+    padding: 3px;
+    border-radius: 3px;
+}
+
+footer {
+text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background-color: yellow;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+footer p {
+    margin-top: 40px;
+    color: gray;
+}
+
+a:hover {
+    text-decoration: none;
+}
